@@ -1,0 +1,53 @@
+input{
+    width:90%;
+    border-radius: 3px;
+    
+}
+
+.custom-gap {
+    margin-right: 7px; /* Add a 20px gap between columns */
+}
+
+textarea{
+    width : 90%;
+    border-radius: 3px;
+}
+
+/* #cv-form{
+    display:none;
+} */
+
+
+
+.myimg{
+    width : 200px;
+    
+}
+
+#cv-template{
+    display : none;
+}
+.card-header{
+    background-color:#ADE3F3;
+}
+.profile{
+    background-color : #ADE3F3;
+    font-weight : 500;
+}
+
+.name1{
+    font-weight:800;
+    color:rgb(4, 55, 114);
+}
+
+
+
+.link{
+    text-decoration : none;
+    color: black;
+}
+
+.but{
+    background-color:#ADE3F3 ;
+    color : black;
+}
